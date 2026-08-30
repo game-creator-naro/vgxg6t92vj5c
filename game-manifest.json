@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "gameId": "vgxg6t92vj5c",
-  "title": "無題のゲーム",
+  "title": "大砲ドンドン",
   "versionId": "d5ae697c-ad25-4aec-90b8-a5e3f42ca7ba",
-  "snapshotAt": "2026-08-30T06:53:22.991Z",
+  "snapshotAt": "2026-08-30T08:37:59.627Z",
   "playUrl": "https://gcn-play.com/play/vgxg6t92vj5c",
   "files": [
     {
       "path": "README.md",
       "mime": "text/markdown; charset=utf-8",
       "bytes": 1868,
-      "sha256": "394620c1c6f7ee31044d1cbe02adfa3a2003f507c176516c381056e515fcc453"
+      "sha256": "d42b02ab92478f9dbbb0f072137eaa39fb83210f63850991cde6e4bc39ebdea8"
     },
     {
       "path": "index.html",
