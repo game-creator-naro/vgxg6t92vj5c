@@ -2,8 +2,8 @@
   "schema": 1,
   "gameId": "vgxg6t92vj5c",
   "title": "無題のゲーム",
-  "versionId": "966f80f4-da8e-46dd-871b-fabf870dbeeb",
-  "snapshotAt": "2026-08-30T03:31:26.571Z",
+  "versionId": "d5ae697c-ad25-4aec-90b8-a5e3f42ca7ba",
+  "snapshotAt": "2026-08-30T06:53:22.991Z",
   "playUrl": "https://gcn-play.com/play/vgxg6t92vj5c",
   "files": [
     {
@@ -15,8 +15,8 @@
     {
       "path": "index.html",
       "mime": "text/html; charset=utf-8",
-      "bytes": 440788,
-      "sha256": "4d320b653ac95c56f852b087467b8fbe091a0e636b4649b6262c004c61138cfd"
+      "bytes": 441981,
+      "sha256": "5acdbd55c352e6bab98fd5094ac71be469b6c8e112e3124fe918ddd718c38ffe"
     },
     {
       "path": "assets/images/bg_main.webp",
