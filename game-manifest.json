@@ -1,0 +1,35 @@
+{
+  "schema": 1,
+  "gameId": "vgxg6t92vj5c",
+  "title": "大砲ドンドン",
+  "versionId": "d5ae697c-ad25-4aec-90b8-a5e3f42ca7ba",
+  "snapshotAt": "2026-08-30T08:37:59.627Z",
+  "playUrl": "https://gcn-play.com/play/vgxg6t92vj5c",
+  "files": [
+    {
+      "path": "README.md",
+      "mime": "text/markdown; charset=utf-8",
+      "bytes": 1868,
+      "sha256": "d42b02ab92478f9dbbb0f072137eaa39fb83210f63850991cde6e4bc39ebdea8"
+    },
+    {
+      "path": "index.html",
+      "mime": "text/html; charset=utf-8",
+      "bytes": 441981,
+      "sha256": "5acdbd55c352e6bab98fd5094ac71be469b6c8e112e3124fe918ddd718c38ffe"
+    },
+    {
+      "path": "assets/images/bg_main.webp",
+      "mime": "image/webp",
+      "bytes": 89454,
+      "sha256": "e1d44dee2e498bd96e4d7ca11972768a6d29f312af34faa0b76caba6e584e004"
+    },
+    {
+      "path": "assets/images/cannon.png",
+      "mime": "image/png",
+      "bytes": 202777,
+      "sha256": "a1da89da94ea0c86fddc06132b7cea0ddbabf5a6b781bf0c7c74a0c0f0f89b57"
+    }
+  ],
+  "skipped": []
+}
