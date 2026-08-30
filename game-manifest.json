@@ -1,0 +1,35 @@
+{
+  "schema": 1,
+  "gameId": "vgxg6t92vj5c",
+  "title": "無題のゲーム",
+  "versionId": "966f80f4-da8e-46dd-871b-fabf870dbeeb",
+  "snapshotAt": "2026-08-30T03:31:26.571Z",
+  "playUrl": "https://gcn-play.com/play/vgxg6t92vj5c",
+  "files": [
+    {
+      "path": "README.md",
+      "mime": "text/markdown; charset=utf-8",
+      "bytes": 1868,
+      "sha256": "394620c1c6f7ee31044d1cbe02adfa3a2003f507c176516c381056e515fcc453"
+    },
+    {
+      "path": "index.html",
+      "mime": "text/html; charset=utf-8",
+      "bytes": 440788,
+      "sha256": "4d320b653ac95c56f852b087467b8fbe091a0e636b4649b6262c004c61138cfd"
+    },
+    {
+      "path": "assets/images/bg_main.webp",
+      "mime": "image/webp",
+      "bytes": 89454,
+      "sha256": "e1d44dee2e498bd96e4d7ca11972768a6d29f312af34faa0b76caba6e584e004"
+    },
+    {
+      "path": "assets/images/cannon.png",
+      "mime": "image/png",
+      "bytes": 202777,
+      "sha256": "a1da89da94ea0c86fddc06132b7cea0ddbabf5a6b781bf0c7c74a0c0f0f89b57"
+    }
+  ],
+  "skipped": []
+}
