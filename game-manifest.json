@@ -2,8 +2,8 @@
   "schema": 1,
   "gameId": "vgxg6t92vj5c",
   "title": "大砲ドンドン",
-  "versionId": "d5ae697c-ad25-4aec-90b8-a5e3f42ca7ba",
-  "snapshotAt": "2026-08-30T08:37:59.627Z",
+  "versionId": "23685d6a-444a-4615-8fea-2a5cadb7b55c",
+  "snapshotAt": "2026-08-30T08:44:18.383Z",
   "playUrl": "https://gcn-play.com/play/vgxg6t92vj5c",
   "files": [
     {
@@ -15,8 +15,8 @@
     {
       "path": "index.html",
       "mime": "text/html; charset=utf-8",
-      "bytes": 441981,
-      "sha256": "5acdbd55c352e6bab98fd5094ac71be469b6c8e112e3124fe918ddd718c38ffe"
+      "bytes": 442057,
+      "sha256": "1ead7145298b3e4c85c70a77da64233ad5020972a9f678e6947d39225cd0d4dd"
     },
     {
       "path": "assets/images/bg_main.webp",
